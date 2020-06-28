@@ -1,0 +1,24 @@
+CT Images
+---------
+COVID-19: 80
+No Finding: 4
+
+RX Images
+---------
+COVID-19: 295
+ARDS: 4
+SARS: 16
+Pneumocystis: 13
+Streptococcus: 13
+No Finding: 10
+Chlamydophila: 1
+COVID-19, ARDS: 11
+Klebsiella: 7
+Legionella: 3
+Pneumonia: 6
+Lipoid: 3
+Varicella: 4
+Bacterial: 2
+Mycoplasma Bacterial Pneumonia: 4
+Influenza: 1
+todo: 28
